@@ -4,5 +4,5 @@ Clone of Spotify
 # student
 kunal
 
-# git push command
-git push origin main
+# Purpose
+Using Git for Learning
